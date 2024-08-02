@@ -18,12 +18,14 @@ Deprecations
 
 Bug fixes and small changes
 ---------------------------
+- change the truncated PDF with a yield to reflect a dynamic change in shape
 
 Experimental
 ------------
 
 Requirement changes
 -------------------
+- Upgrade from Pydantic V1 to V2
 
 Thanks
 ------
