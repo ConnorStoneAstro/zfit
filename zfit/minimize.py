@@ -68,6 +68,7 @@ __all__ = [
     "NLoptBOBYQAV1",
     "NLoptCOBYLAV1",
     "IpyoptV1",
+    "LevenbergMarquardt",
     "BaseMinimizer",
     "BaseMinimizerV1",
     "minimize_supports",
